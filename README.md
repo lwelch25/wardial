@@ -16,7 +16,7 @@ You should complete the lab in order to get background on this assignment.
 (There is nothing to turn in for the lab, though, so you can gloss over the implementation details if you'd like.)
 The final code takes about an hour to run because it scans all ip addresses sequentially, without concurrency.
 
-In this homework, we will use python's async functions to build a script that can scan arbitrary sections of the internet much faster.
+In this assignment, we will use python's async functions to build a script that can scan arbitrary sections of the internet much faster.
 For example, the following command scans all North Korean ip addresses in only 30 seconds:
 
 ```
